@@ -1,0 +1,578 @@
+{
+  "sections": [
+    {
+      "title": "表情图标",
+      "items": [
+        {
+          "name": "Emojious",
+          "url": "https://www.emojious.com/categories/classics",
+          "description": "Emojious是一个用于表达想法、语气和情感的图标库，网站目前拥有近600多个图标，有表情包的分类，非常精细。"
+        },
+        {
+          "name": "Streamline Emoji",
+          "url": "https://app.streamlineicons.com/freemojis?_ga=2.98601310.1763045002.1582735281-45536238.1582474165",
+          "description": "Streamline Emoji 是一款免费的可爱表情符文集，其中有超280个矢量表情免费下载。"
+        },
+        {
+          "name": "Emoji-M",
+          "url": "https://emoji-m.firebaseapp.com",
+          "description": "一大分类，表情、人物与手势、动物与自然、食物与饮品、旅行与地点、活动、物体、标志、及国旗。点击图标即可复制。"
+        },
+        {
+          "name": "Emojipedia",
+          "url": "https://emojipedia.org",
+          "description": "记载了Unicode标准中各个表情图标的编码、含义、演变等信息。"
+        },
+        {
+          "name": "Getemoji",
+          "url": "http://getemoji.com/",
+          "description": "网站有非常多的Emoji表情，可以复制和粘贴。"
+        },
+        {
+          "name": "beedii",
+          "url": "https://listemoji.com",
+          "description": "Nitish 和 Prafful 提供各种各样手绘表情符字体，目前包含48个不同的元素，它可以用作个人和商用。"
+        },
+        {
+          "name": "List Emoji",
+          "url": "https://listemoji.com",
+          "description": "众多类型的表情符号，比如：各种与人脸相关的表情符号，点击即可复制表情符号。"
+        },
+        {
+          "name": "Joy Pixels",
+          "url": "https://www.joypixels.com",
+          "description": "这是一套非常有趣的图标合集，包含30多种新的的表情符号和超过1500 款被重新设计过的图标，所有的这些都是免费的（仅供个人使用）。"
+        },
+        {
+          "name": "OpenMoji",
+          "url": "https://openmoji.org",
+          "description": "OpenMoji是面向设计师、开发人员和其他所有人的开源表情符号，到目前为止，已经设计了超3000种不同类别的表情符号，提供了彩色和单色的SVG、PNG格式。"
+        },
+        {
+          "name": "Blob Emoji",
+          "url": "https://blobs.gg",
+          "description": "Blob Emoji是一个有4152个有趣又好玩的Blob表情符号网站，提供了很多好玩有趣的Emoji表情，这些表情有动态和静态的，提供了一键下载所有Emoji表情的入口。"
+        },
+        {
+          "name": "表情包初尝试",
+          "url": "https://www.maliquankai.com/2018/10/11/2018-10-11-emoticon",
+          "description": "绘制表情包该从哪里入手呢"
+        }
+      ]
+    },
+    {
+      "title": "音频资源",
+      "items": [
+        {
+          "name": "FreeSFX",
+          "url": "https://freesfx.co.uk",
+          "description": "音效由专业音效公司提供，可以在线试听、分类检索、可商用下载。"
+        },
+        {
+          "name": "Icons8 Music",
+          "url": "https://icons8.cn/music",
+          "description": "由Icons8团队上线的免费音乐素材库，每首歌曲都被打上了标签及分类，可以根据自己的需要选择下载，在网页端也支持试听。"
+        },
+        {
+          "name": "DOVA-SYNDROME",
+          "url": "https://dova-s.jp",
+          "description": "是一个来自日本的免费音效网站，主要以提供各种背景音乐（BGM）、铃声、声音效果和歌曲素材为主。"
+        },
+        {
+          "name": "DUST SOUNDS",
+          "url": "http://dust-sounds.com",
+          "description": "是一个日本免费音乐音效网站，提供循环音乐、背景音乐、音效和声音素材，主要提供四大类型音乐：Emsemble、Solo、Techno 和效果音。"
+        },
+        {
+          "name": "BBC Sound Effects",
+          "url": "http://bbcsfx.acropolis.org.uk",
+          "description": "收录超过16,000多个声音效果，无论是早期广播、演讲、动物鸣叫、城市、交通工具或战争时期的武器声都能在这个网站中找到。"
+        },
+        {
+          "name": "Octave",
+          "url": "http://raisedbeaches.com/octave",
+          "description": "收录48个手工制作的音效，包括按键音效、逼逼声、slides 三大类型，制作成 16 bit、44.1khz 、.aifs 格式，可以自由用于iOS 应用程序开发项目。"
+        },
+        {
+          "name": "Freesound.org",
+          "url": "http://freesound.org",
+          "description": "该网站上其包含大量的音效和配乐，大多为WAV格式；并且上面的音效素材使用 CC0授权，即该素材可用于个人或者商业创作，无专利纠纷。"
+        },
+        {
+          "name": "POND5",
+          "url": "https://www.pond5.com/sound-effects",
+          "description": "该网站上其包含大量的音效和配乐，大多为WAV格式；并且上面的音效素材使用 CC0授权，即该素材可用于个人或者商业创作，无专利纠纷。"
+        },
+        {
+          "name": "Soundsnap",
+          "url": "https://www.soundsnap.com",
+          "description": "Soundsnap仅专注于专业音效，每周都会添加精选的声音，它是探索世界上使用最广泛的音效平台。"
+        }
+      ]
+    },
+    {
+      "title": "图片放大",
+      "items": [
+        {
+          "name": "bigjpg",
+          "url": "http://bigjpg.com",
+          "description": "bigjpg 是使用最新人工智能深度学习技术——深度卷积神经网络，对图像进行放大的工具，它会将噪点和锯齿的部分进行补充，实现图片的无损放大。"
+        },
+        {
+          "name": "waifu2x",
+          "url": "http://waifu2x.udp.jp/index.zh-CN.html",
+          "description": "waifu2x 是一个支持中、英、日、韩等多国语言的在线图片放大工具，使用卷积神经网络对照片及动漫风格的图片或插画进行放大及降噪处理。"
+        },
+        {
+          "name": "Let’sEnhance.io",
+          "url": "https://letsenhance.io/cn",
+          "description": "Let’sEnhance.io 是一款国外的在线图片放大工具，采用基于深褶积神经网络的尖端图像超分辨技术，实现大幅增加照片或图像的大小并且不失质量的效果。"
+        },
+        {
+          "name": "Imagus",
+          "url": "https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=zh-CN",
+          "description": "Imagus 是一款可以通过将鼠标悬停在缩略图上来显示大图的 Chrome 插件，支持鼠标悬停链接或缩略图以显示图片、HTML5视频/音频和内容专辑等。"
+        },
+        {
+          "name": "Upscale Pics",
+          "url": "https://upscalepics.com",
+          "description": "Upscale Pics可以免费将您的图像放大2倍至8倍，它使用AI算法来解决像素化问题。"
+        },
+        {
+          "name": "AI Image Enlarger",
+          "url": "https://imglarger.com",
+          "description": "imglarger是一款基于人工智能学习及人工智能技术的图片放大而不失真的图片处理工具。"
+        },
+        {
+          "name": "Smart Upscaler",
+          "url": "https://icons8.com/upscaler",
+          "description": "Smart Upscaler它可以将图像放大2倍或4倍，利用机器学习自动为图像进行锐化、降噪和放大。"
+        }
+      ]
+    },
+    {
+      "title": "插画素材",
+      "items": [
+        {
+          "name": "unDraw",
+          "url": "https://undraw.co/illustrations",
+          "description": "unDraw是由Katerina Limpitsouni创建的一个扁平化插画图库，从网站上就可以直接调整所有插图的主要颜色，支持下载SVG和PNG格式，不需要标示出处，可用于商业用途。"
+        },
+        {
+          "name": "ManyPixels",
+          "url": "https://www.manypixels.co/gallery/",
+          "description": "ManyPixels插画颜色以渐变色为主，图案细节更细腻。网站每周都会发布新的插画素材，支持下载SVG和PNG格式，可免费用于个人及商业用途。"
+        },
+        {
+          "name": "Delesign",
+          "url": "https://delesign.com/free-designs/graphics",
+          "description": "一个超多完全可自定义的免费插画素材网站，插画素材的格式有SVG和PNG两种格式，我们可以免费用到自己的项目中，而且没有版权限制。"
+        },
+        {
+          "name": "MixKit",
+          "url": "https://mixkit.co/free-stock-art/",
+          "description": "MixKit不仅有大量的高画质视频素材还有各种风格的插画素材，网站所有内容都可以免费使用，无论商业或非商业用途皆可自由运用。"
+        },
+        {
+          "name": "DrawKit",
+          "url": "https://www.drawkit.io/",
+          "description": "DrawKit是由来自澳大利亚的设计师、插画师James创建的一个免费矢量插画网站，目前包含40多个免费插画、20个插画合集、100个模块化插画组件。"
+        },
+        {
+          "name": "Ira Design",
+          "url": "https://iradesign.io/",
+          "description": "Ira Design是一个完全免费的矢量插画组件素材网站，内容包含1个人物、6个物件和15个背景，下载支持PNG和SVG两种格式，所有组件都可以免费用在商业或个人项目中。"
+        },
+        {
+          "name": "Humaaans",
+          "url": "https://www.humaaans.com/",
+          "description": "旧金山设计师 Pablo Stanley 设计的一套现代扁平风矢量插画素材，素材格式包含.sketch / .svg / .png 三种格式，无论你是使用哪个软件对素材进行再编辑都会很方便。"
+        },
+        {
+          "name": "Open Doodles",
+          "url": "https://www.opendoodles.com/",
+          "description": "来自墨西哥设计师 Pablo Stanley 的最新免费插画资源，你可以出于任何目的复制、编辑、重组、共享或重画这些图像，同时完全不必担心版权的限制。"
+        },
+        {
+          "name": "Open Peeps",
+          "url": "https://www.openpeeps.com",
+          "description": "Open Peeps是一个手绘插画库，用于创建人物场景，支持多种格式可免费用于个人和商用项目中。"
+        },
+        {
+          "name": "Buttsss",
+          "url": "https://www.buttsss.com",
+          "description": "Buttsss是宇宙中最大胆的圆形和美丽屁股插画集合，您可以在广告投放平台、产品演示、营销活动、业务演示或激励性演讲中使用这些GIF。"
+        },
+        {
+          "name": "illlustrations",
+          "url": "https://illlustrations.co/",
+          "description": "插图以各种常见物品为主题，绘制相当细腻漂亮且颇具质感，所有的插图都采用MIT License授权，最重要的是你可以自由下载、编辑、重新混合个人和商业设计项目中。"
+        },
+        {
+          "name": "ITG.digital",
+          "url": "https://app.itg.digital",
+          "description": "使用在线构建器，您可以轻松地制插图、更改插图元素、样式和颜色，使其完全适合您的品牌。"
+        },
+        {
+          "name": "Absurd",
+          "url": "https://absurd.design/",
+          "description": "Absurd是一个纯手绘荒诞插图网站，插图样式有极简线条和色彩填充两种，你可以将它们用于个人和商业项目，免费用户可下载1个免费PNG格式文件。"
+        },
+        {
+          "name": "outlane.co",
+          "url": "https://outlane.co/topics/freebie",
+          "description": "免费插画素材下载，支持svg和png格式，品质非常高。"
+        },
+        {
+          "name": "Folio Art",
+          "url": "https://folioart.co.uk",
+          "description": "「Folio插画社」是英国的一家插画艺术作品展示网站，由尼古拉斯·达维于1976年创办工作室并上线网站。"
+        },
+        {
+          "name": "Mark Conlan",
+          "url": "http://markconlan.com",
+          "description": "致力于描绘异想天开的画面构图与内容创想，同时配以充满活力的颜色。"
+        },
+        {
+          "name": "Paper Illustrations",
+          "url": "https://iconscout.com/paper-illustrations",
+          "description": "一20个可用的插画，精心制作的插画可用于不同类别，完全免费供个人和商业使用。"
+        },
+        {
+          "name": "Getillustrations",
+          "url": "https://www.getillustrations.com",
+          "description": "这个完美的插画包可用于移动端、网站和印刷材料，插画素材的动画看起来也很酷而且支持多种文件格式。"
+        },
+        {
+          "name": "Control",
+          "url": "https://control.rocks",
+          "description": "Control Free Illustrations 创建了一个大型的插图库，其中包含可自定义的样式和动作类型。"
+        },
+        {
+          "name": "Woobro.Design",
+          "url": "https://woobro.design",
+          "description": "由设计师为设计师们创建的免费资源站，它支持SVG、Sketch、AI和PNG格式的插画，你可以随意将这些插图用于个人和商业项目。"
+        },
+        {
+          "name": "Old Book Illustrations",
+          "url": "https://www.oldbookillustrations.com",
+          "description": "寻找复古风格插图的最佳去处，而且是免费的，可以搜索到旧书籍和共享的插图，所以不用考虑版权，这是很好的图片收集网站，类别涵盖植物、建筑、动物、纪念碑、饰品等等。"
+        },
+        {
+          "name": "Avataaars",
+          "url": "https://avataaars.com/",
+          "description": "Avataaars是由Pablo Stanley设计的一个免费Sketch头像插画素材库，结合发型、发色、五官表情、衣服、配饰、肤色等自定义你的头像，素材完全支持免费用于个人和商业用途。"
+        },
+        {
+          "name": "Agent002",
+          "url": "https://www.agent002.com",
+          "description": "Agent002 创立于1999年，有众多法国插画师们的一系列作品，以及博客。"
+        },
+        {
+          "name": "LukaszAdam Illustrations",
+          "url": "https://lukaszadam.com/illustrations",
+          "description": "一个独立网页设计师Lukasz Adam的个人网站，其中的一个模块用来提供免费的矢量艺术插画和图标，每个插画和图标素材都提供了SVG和PNG格式。"
+        },
+        {
+          "name": "Fresh Folk",
+          "url": "https://fresh-folk.com",
+          "description": "Fresh Folk每个角色都有各种姿势，服装和肤色，使用3种对象创建广泛的场景供您选择。"
+        },
+        {
+          "name": "Streamline UX",
+          "url": "https://streamlineicons.com/ux/free-illustrations.html",
+          "description": "3种风格的240个矢量插图：多色、双色调、单调。"
+        },
+        {
+          "name": "It's Nice That",
+          "url": "https://www.itsnicethat.com",
+          "description": "创意设计艺术社区是一个倡导创意融合艺术设计的世界，每天更新来自世界各地的创意作品，深度发掘和发现最有趣的创意项目。"
+        },
+        {
+          "name": "n8w",
+          "url": "https://www.n8w.com",
+          "description": "Nate Williams 是美国西部的一位艺术设计总监，他为杂志、书本、包装、广告和产品设计插画和手绘字体，他的个人网站n8w记录了很多作品的灵感和实现过程。"
+        },
+        {
+          "name": "Abstrakt",
+          "url": "https://www.abstrakt.design",
+          "description": "这里提供122个抽象插画，会员可以下载所有的抽象插画，有SVG和PNG文件格式，也可以免费下载53个png格式的抽象插画，使用需要注明出处。"
+        },
+        {
+          "name": "Karthik Srinivas",
+          "url": "https://www.karthiksrinivas.in/illustrations",
+          "description": "这里提供了几组精心设计的插画，比如手工制作的插画、人工智能等类别，有的可以免费用于个人和商业项目中。"
+        },
+        {
+          "name": "Vector Creator",
+          "url": "https://icons8.com/vector-creator",
+          "description": "icon8出品，内含12 种风格，3000 + 插画素材，五分钟就能组装出一幅矢量插画，还能导出PNG和SVG格式。"
+        },
+        {
+          "name": "Abstract Illustrations",
+          "url": "https://www.veila.me/freebies/lineart-abstract-vector-illustrations",
+          "description": "线条艺术矢量插图在当今正在流行，并且这种流行性不容忽视。从包装和纹身设计到logo模板和品牌元素，到处都可以看到它们。"
+        },
+        {
+          "name": "SleekBundle",
+          "url": "https://sleekbundle.com",
+          "description": "网站上的插画148个、3个套件、5个插图集，插画提供了EPS、PNG、SVG、AI、Sketch、Figma格式，可免费使用Pulse Illustration Kit无需标注出处。"
+        },
+        {
+          "name": "Scribbbles",
+          "url": "https://www.scribbbles.design",
+          "description": "100+矢量涂鸦素材，可以为你的设计项目增添趣味，支持自定义大小或颜色，可免费下载用于商业或个人项目。"
+        },
+        {
+          "name": "Freeillustration",
+          "url": "http://freeillustration.net",
+          "description": "这个网站上有很多可以免费下载的可爱插画，无需注册，可以免费用于商业用途。"
+        },
+        {
+          "name": "Irasuton",
+          "url": "http://www.irasuton.com",
+          "description": "Irasuton提供30多个分类的插画素材，可免费用于个人和商业项目中。"
+        },
+        {
+          "name": "Girlysozai",
+          "url": "http://girlysozai.com",
+          "description": "Girlysozai网站上提供了人物、花、生物、食物等分类的手绘插画素材，可免费用于个人和商业项目中。"
+        },
+        {
+          "name": "Streamlineicons Illustrations",
+          "url": "https://lab.streamlineicons.com",
+          "description": "这个插画素材风格多样、质量超高，网站上提供了80个免费的插画，可以免费用于个人和商业项目中。"
+        },
+        {
+          "name": "Pixeltrue Illustrations",
+          "url": "https://pixeltrue.com/illustrations",
+          "description": "网站上提供了5个彩色和单色的Lottie动画插画素材、36个彩色和单色的矢量插画素材，可以免费用于个人和商业项目中。"
+        },
+        {
+          "name": "Black Illustrations",
+          "url": "https://www.blackillustrations.com",
+          "description": "Black Illustrations 收录超过40 种不同插画图案，主要分为办公室和日常生活、医疗专业人员两大类别，所有图案都具有高画质且提供PNG、JPG、Sketch等相关格式。"
+        },
+        {
+          "name": "Retroooooo Folks",
+          "url": "https://www.manuelalangella.com/retroooo-folks",
+          "description": "它有104张面孔、60个身体、79根头发、21个胡须、4个配件，可提供上千种组合，支持AI、Sketch、XD格式，灵感来自于Pablo Stanley。"
+        },
+        {
+          "name": "404 illustrations",
+          "url": "https://error404.fun",
+          "description": "网站上有23个PNG和SVG格式404插画可用在web和移动端的不同场景中，同时这些插画可以免费用在商业和个人项目中。"
+        },
+        {
+          "name": "Remote Work Illustrations",
+          "url": "https://gumroad.com/l/VSFQU/?ref=oblikstudio",
+          "description": "一组远程工作的矢量插画，质量很高，插画支持SVG、PNG、Figma和AI格式，可免费用在个人和商业项目中。"
+        },
+        {
+          "name": "Blush Design",
+          "url": "https://beta.blush.design",
+          "description": "Blush上提供了12个主题的插画图库，点击任意一个插画图库选择一个人物的姿势、场景即可进入在线编辑插画模式，插画可配置参数非常多，生成的插画素材免费可商用。"
+        },
+        {
+          "name": "Flow Lava",
+          "url": "https://flowlava.club",
+          "description": "Flow Lava提供16个插画场景有PNG和SVG格式，插画角色提供了Sketch和Figma格式，可以任意定制修改这些插画的身体部位，这些插画免费可商用。"
+        },
+        {
+          "name": "Halftone Illustrations",
+          "url": "https://gumroad.com/l/QZlSv",
+          "description": "一组免费的卡通人物插画，感觉挺不错，它提供了PSD源文件、高分辨率的PNG和PDF。"
+        },
+        {
+          "name": "Storytale",
+          "url": "https://storytale.io",
+          "description": "网站上收录了43个插画主题，有免费和付费权限，每个插画主题对应的插画素材质量都还不错，同时它也是ProductHunt上每日推荐排名第5的产品。"
+        },
+        {
+          "name": "Handz.Design",
+          "url": "https://www.handz.design",
+          "description": "可免费用于个人和商业用途，插画库提供了12个手势、3种颜色的肤色、5种不同的袖子，发挥你的想象力可以任意组合超过320种手势。"
+        },
+        {
+          "name": "Call the Doctor",
+          "url": "https://callthedoctor.club",
+          "description": "网站上提供了角色、场景、背景素材，可以根据自己的想法自由创建和组合，免费用户可下载所有插画的PNG格式。"
+        },
+        {
+          "name": "Sketchvalley",
+          "url": "https://sketchvalley.com",
+          "description": "网站上提供了52个插画素材，设计中的每个元素都是一个单独的矢量层，可以自由编辑，下载格式支持PNG、SVG、AI，可免费用于个人和商业用途。"
+        },
+        {
+          "name": "Free Illustrations",
+          "url": "https://freeillustrations.xyz",
+          "description": "网站上大部分都是免费可商用的插画素材，质量都还不错，以后产品上有需要用插画素材的可以来这里看看。"
+        },
+        {
+          "name": "Whoosh",
+          "url": "https://www.ls.graphics/whoosh/vivd",
+          "description": "推荐一组精美的免费插画，可用于网站或移动端应用程序上，插画的分类有社交、编程、404、成功、登录等等，免费用户可以下载所有的png格式。"
+        },
+        {
+          "name": "Sapiens Character",
+          "url": "https://sapiens.ui8.net/6f6c3w5",
+          "description": "数十种完全可自定义的身体部位组件，可以选择背景、姿势进行替换，以三种不同的样式创建数百种独特的插画组合。"
+        },
+        {
+          "name": "Wrrooom",
+          "url": "https://products.ls.graphics/wrrooom",
+          "description": "Wrrooom是一个可以自由定义插画的网站，网站上提供了超多创造角色插画的组件和素材库，使用这些元素和场景可以轻松生成无限数量的插画。"
+        },
+        {
+          "name": "Eye-Pop Illustrations",
+          "url": "https://webpixels.io/illustrations",
+          "description": "可以免费用于个人和商业项目中（但需要注明出处），下载格式支持SVG、PNG格式。"
+        },
+        {
+          "name": "Loomies",
+          "url": "https://www.getillustrations.com/illustration-pack/loomies-free-vector-illustrations",
+          "description": "Loomies可免费用于个人和商业项目中，如果你正在寻找可爱的卡通人物插画，不要错过这组精美的Loomies插画元素，支持Sketch、Figma、XD格式。"
+        },
+        {
+          "name": "Indian-Doodle",
+          "url": "https://iconscout.com/illustration-pack/indian-doodle",
+          "description": "一组由iconscout提供的免费印度涂鸦插画包，此插画包内含10个矢量插画，支持EPS、SVG和PNG格式。"
+        },
+        {
+          "name": "Flexiple",
+          "url": "https://2.flexiple.com/scale/all-illustrations",
+          "description": "网站上可以使用颜色选择器实时更改插画配色，支持下载PNG、SVG格式，可以免费用于个人和商业项目中。"
+        },
+        {
+          "name": "3D-Illustration",
+          "url": "https://www.figma.com/community/file/890095002328610853/SALY---3D-Illustration-Pack",
+          "description": "一组手工制作个性十足的高质3D插画，支持Figma格式，可以导出PNG、SVG、JPG、PDF，可以免费用于个人项目中。"
+        },
+        {
+          "name": "Christmas",
+          "url": "https://icons8.com/l/christmas-illustrations",
+          "description": "圣诞快乐系列的插图，它可以为您的精彩项目提供400多种不同风格的独特圣诞节主题插图，同时提供了PNG和SVG格式。"
+        },
+        {
+          "name": "Illustration Kit",
+          "url": "https://illustrationkit.com",
+          "description": "一个每天更新的高级开源插画集合，目前210多个场景、35个以上的人物角色，可免费用于个人和商业项目中。"
+        },
+        {
+          "name": "StorySet",
+          "url": "https://storyset.com",
+          "description": "一个免费可自定义的插画网站，这些矢量插画可免费用于个人和商业项目中，种类风格多样，可扩展性强。"
+        },
+        {
+          "name": "Amigos",
+          "url": "https://amigos.blush.design",
+          "description": "一个可自由定制人物角色和插画的资源网站Amigos，它是一个手绘插画库，可以用不同的人物插画重新组合定制，提升产品的视觉效果。"
+        },
+        {
+          "name": "Manufactory Illustrations",
+          "url": "https://manufactory.craftwork.design",
+          "description": "一个丰富多彩的插画构造器，它超过150个元素。0个内部元素。8个背景组合，使用这些元素可以帮助我们创建丰富多彩的场景供我们的移动端或Web产品使用。"
+        }
+      ]
+    },
+    {
+      "title": "压缩网站",
+      "items": [
+        {
+          "name": "TinyPNG",
+          "url": "https://tinyjpg.com",
+          "description": "经典在线压缩网站，一次性可最多压20张不超过5MB的png和jpg图片，压缩完直接下载图片即可。"
+        },
+        {
+          "name": "Squoosh",
+          "url": "https://squoosh.app",
+          "description": "Google 开源发布的一款专门用来压缩图片的在线服务，支持JPG、PNG、WebP 等格式的极限压缩。"
+        },
+        {
+          "name": "IMGBOT",
+          "url": "https://www.imgbot.ai",
+          "description": "图片压缩工具IMGBOT，它不止有压缩功能还有调整图片大小、裁切图片和图片加水印功能，而且支持批量编辑，一次最多可以上100张图片，每个文件的大小不能超15MB。"
+        },
+        {
+          "name": "Recompressor",
+          "url": "https://zh.recompressor.com",
+          "description": "是一个追求将图像进行最佳压缩的在线工具，压缩的全程中通过浏览器提供在线文件完整预览，在文件尺寸和质量之间取得完美平衡，该网站使用完全免费并且无广告。"
+        },
+        {
+          "name": "docsmall",
+          "url": "https://docsmall.com",
+          "description": "docsmall是由 INTERVAL DESIGN 设计开发的在线文件处理工具，目前已上线图片压缩、GIF压缩、PDF压缩、PDF合并、PDF分割功能。"
+        },
+        {
+          "name": "智图",
+          "url": "https://zhitu.isux.us",
+          "description": "腾讯ISUX前端团队开发的一个专门用于图片压缩和图片格式转换的工具，在压缩PNG、JPG、GIF等各类格式图片时，工具将自动为图片选择最优的图片格式。"
+        },
+        {
+          "name": "jpeg.io",
+          "url": "https://www.jpeg.io",
+          "description": "这是一个支持将JPG、PNG、GIF、SVG、BMP、EPS、PSD、TIFF、WEBP等多种格式的图片压缩为JPG格式的图片压缩工具，支持多张图片批量上传及下载。"
+        },
+        {
+          "name": "Compressor.io",
+          "url": "https://compressor.io/compress",
+          "description": "Compressor是一款支持JPEG、PNG、GIF、SVG图片格式进行在线压缩90%的工具，但不会破坏图片的画质，压缩比极高。"
+        },
+        {
+          "name": "Kraken.io",
+          "url": "https://kraken.io/web-interface",
+          "description": "Kraken.io 是一个在线图片优化和压缩服务，支持JPEG、PNG、GIF 动画和SVG 格式。"
+        },
+        {
+          "name": "Giftofspeed",
+          "url": "https://www.giftofspeed.com",
+          "description": "Giftofspeed是JPEG压缩器和缩放器，您可以通过调整图像质量或调整图像大小来将JPEG文件压缩到更小的文件大小。"
+        },
+        {
+          "name": "Optimizilla",
+          "url": "http://imagecompressor.com/zh",
+          "description": "Optimizilla 也是一款经典的图片压缩网站，网站提供了不同的语言供选择，在图片压缩方面，网站支持JPG及PNG文件格式。"
+        },
+        {
+          "name": "img.top",
+          "url": "https://img.top",
+          "description": "使用聪明的有损压缩技术来减少你的 PNG、JPG、GIF 文件的存储大小。"
+        },
+        {
+          "name": "iloveimg",
+          "url": "https://www.iloveimg.com/zh-cn",
+          "description": "可批量编辑图片的所有工具，你的在线图片编辑器就在这里，而且永远免费。"
+        },
+        {
+          "name": "JPEGmini",
+          "url": "https://www.jpegmini.com",
+          "description": "获得最小的图像文件大小而不会影响质量或更改您的工作流程。"
+        },
+        {
+          "name": "Online UniConverter",
+          "url": "https://www.media.io",
+          "description": "Online UniConverter是由Wondershare公司开发的一款集视频和音频转换为一体的视频转换工具，包含在线版本和离线版本。"
+        },
+        {
+          "name": "Clipchamp Utilities",
+          "url": "https://clipchamp.com/en/video-compressor",
+          "description": "Clipchamp Utilities 是一套功能强大的在线视频处理工具，包括视频压缩、视频格式转换及摄像头录制视频。"
+        },
+        {
+          "name": "You Compress",
+          "url": "https://www.youcompress.com/videos",
+          "description": "You Compress是一款极简的免费在线压缩工具，界面简洁直观，只需上传视频文件，网站会根据上传的视频，自动选择最佳参数对视频进行无损压缩，减少文件大小同时保证视频质量。"
+        },
+        {
+          "name": "HandBrake",
+          "url": "https://handbrake.fr",
+          "description": "HandBrake是一款免费开源视频转换工具，目前在GitHub的Star数是4711，HandBrake不提供在线服务，只能下载到本地使用，适用于所有流行的操作系统。"
+        }
+      ]
+    },
+    {
+      "title": "总结",
+      "description": "网页大全收集了29个各种实用的网站和工具资源，涵盖激活工具、互联网创业项目、设计素材、图标库、配色工具、字体设计、思维导图、压缩工具、无损放大、效率工具、音效资源、表情设计、动效设计、开源项目、前端框架、博物馆素材、人物素材等多个类别。这些资源大多免费或开源，帮助用户在工作、学习和创作中提高效率和质量。每个网站都带有简介，便于快速了解其用途。希望这个网页大全能成为您的宝贵资源库！"
+    }
+  ]
+}
